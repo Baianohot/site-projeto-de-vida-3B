@@ -62,6 +62,6 @@ body {
 
 
 .ativo {
-    background-color:var(--botao-ativo;
-    boder)
+    background-color:var(--botao-ativo);
+    boder-botton:4px solid var (--verde);
 }
