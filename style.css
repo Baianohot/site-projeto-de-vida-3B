@@ -65,3 +65,7 @@ body {
     background-color:var(--botao-ativo);
     boder-botton:4px solid var (--verde);
 }
+
+.abatextos{
+    background-color: var(--texto-fundo);
+}
